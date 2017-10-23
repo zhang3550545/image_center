@@ -1,0 +1,8 @@
+Python学习任务：
+	
+	1. Python语法基础（********完成）
+	2. Python（数据可视化）项目实践
+	3. Python网络
+	4. Python数据库
+	5. Python之Django和项目实践
+	6. Python爬虫实践
